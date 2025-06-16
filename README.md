@@ -17,4 +17,4 @@
   - Make sure data is consistent and clean  with respect to data type, format and value used.
   - Create visual as per the questioned asked
 ### Data_analysis
--<a href ="https://github.com/Lakshmiart/Excel_Project/blob/main/CPI%20Inflation%20data_analysis.csv">CPI-Inflation_Data-anlysis<a/>
+-<a href ="https://github.com/HeyAbhiG/HeyAbhiG-CPI-Inflation-Data-analysis-on-Excel/blob/main/CPI%20Inflation%20data_analysis.xlsx">CPI-Inflation_Data-anlysis<a/>
